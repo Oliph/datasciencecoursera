@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-MOOC Datascience - Johm Hopkins
+MOOC Datascience - John Hopkins
